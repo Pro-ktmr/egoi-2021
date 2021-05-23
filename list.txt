@@ -106,5 +106,5 @@ Functional Graph (なもりグラフ),,
 Trie木,,
 資料,https://algo-logic.info/trie-tree/,
 問題1(JOI10春合宿2-2 DNA synthesizer),https://atcoder.jp/contests/joisc2010/tasks/joisc2010_dna,https://qnighy.github.io/informatics-olympiad/joi2010-day2-dna-comment.html
-問題2(AGC047B First Second),https://atcoder.jp/contests/agc047/tasks/agc047_b),https://atcoder.jp/contests/agc047/editorial/43)
+問題2(AGC047B First Second),https://atcoder.jp/contests/agc047/tasks/agc047_b,https://atcoder.jp/contests/agc047/editorial/43
 ,,https://tiramistercp.hatenablog.com/entry/agc047-b
